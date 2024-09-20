@@ -1,0 +1,17 @@
+C:\Users\323\Desktop\32\PatternBuilder\bin\Debug\PatternBuilder.exe.config
+C:\Users\323\Desktop\32\PatternBuilder\bin\Debug\PatternBuilder.exe
+C:\Users\323\Desktop\32\PatternBuilder\bin\Debug\PatternBuilder.pdb
+C:\Users\323\Desktop\32\PatternBuilder\bin\Debug\EntityFramework.dll
+C:\Users\323\Desktop\32\PatternBuilder\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\323\Desktop\32\PatternBuilder\bin\Debug\EntityFramework.xml
+C:\Users\323\Desktop\32\PatternBuilder\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\323\Desktop\32\PatternBuilder\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\323\Desktop\32\PatternBuilder\obj\Debug\PatternBuilder.csproj.AssemblyReference.cache
+C:\Users\323\Desktop\32\PatternBuilder\obj\Debug\PatternBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\323\Desktop\32\PatternBuilder\obj\Debug\PatternBuilder.Form1.resources
+C:\Users\323\Desktop\32\PatternBuilder\obj\Debug\PatternBuilder.Properties.Resources.resources
+C:\Users\323\Desktop\32\PatternBuilder\obj\Debug\PatternBuilder.csproj.GenerateResource.cache
+C:\Users\323\Desktop\32\PatternBuilder\obj\Debug\PatternBuilder.csproj.CoreCompileInputs.cache
+C:\Users\323\Desktop\32\PatternBuilder\obj\Debug\PatternBuilder.csproj.CopyComplete
+C:\Users\323\Desktop\32\PatternBuilder\obj\Debug\PatternBuilder.exe
+C:\Users\323\Desktop\32\PatternBuilder\obj\Debug\PatternBuilder.pdb
